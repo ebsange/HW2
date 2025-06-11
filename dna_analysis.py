@@ -104,7 +104,7 @@ for base in nucleotides:
 gc_content = gc_count / total_count
 
 print('GC-content:', gc_content)
-
+print('GC-content:', gc_content)
 # You can add more assertions here to check properties that you think
 # should be true about your results. If the condition listed is false,
 # then the given message will be printed.
